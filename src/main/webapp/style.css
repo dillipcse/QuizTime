@@ -1,0 +1,126 @@
+.mydiv {
+ 	height: 60px;
+	overflow: hidden;
+	background-color: #87CEFA;
+}
+
+.quizText {
+	float: left;
+	font-family: cursive;
+    color: #0a374e;
+    margin: 5px;
+    margin-top: 11px;
+}
+
+.exaLogBtn {
+	margin-left: 1275px;
+    margin-top: -27px;
+    width: 30px;
+}
+
+.quizLogo {
+	width: 80px;
+    height: 50px;
+    float: left !important;
+    margin: 2px;
+    margin-top: 5px;
+    margin-left: 52px;
+}
+
+.quizUser {
+	font-family: cursive;
+    color: #034a3a;
+    margin-right: 30px;
+    margin-top: 0px;
+}
+
+.ex3 {
+	padding: 0.15cm 4.6cm;
+}
+
+.adminTasks {
+	height: 100%;
+    font-size: large;
+    margin: 25px;
+}
+
+.exaBack{
+	width : 20px;
+	height : 20px;
+	float: left;
+	margin: 2px;
+	margin-top: 15px;
+}
+
+.bs-example {
+	margin: 20px;
+}
+
+.quizError {
+	border: 4px solid #c10707;
+    margin: 4px;
+    height: 15px;
+    width: 14px;
+    background-color: #c10707;
+    font-size: small;
+}
+
+.quizWarning {
+	border: 4px solid orange;
+    margin: 4px;
+    height: 15px;
+    width: 14px;
+    background-color: orange;
+    font-size: small;
+}
+
+.quizSuccess {
+	border: 4px solid green;
+    margin: 4px;
+    height: 15px;
+    width: 14px;
+    background-color: green;
+    font-size: small;
+}
+
+.quizQuestionBank{
+	padding: 0.15cm -0.4cm;
+}
+
+.tabInActive {
+	background-color: #c1c1ef;
+	height: 29px;
+}
+
+.tab {
+	 width: 15% !important;
+	float: left;
+	margin-right: 4px;
+	text-align: center;
+}
+        
+.tabActive {
+	background-color: #ade8c1 !important;
+    height: 28px !important;
+    margin-bottom: 10px;
+    box-shadow: 2px 8px 5px #888888;
+}
+
+.quizNavBack {
+	margin-right: 1300px;
+	margin-bottom: -42px;
+    margin-top: 12px;
+}
+
+.quizResultLegend {
+	margin-left: 90px;
+    margin-top: -24px;
+}
+
+.inActive {
+	background-color: #03a9f4 !important;
+}
+
+.active {
+	background-color: #076590 !important;
+}

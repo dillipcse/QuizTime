@@ -1,0 +1,19 @@
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Eclipse
+.metadata/
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# OS Files
+Thumbs.db
+.DS_Store
