@@ -7,7 +7,7 @@ public class QuizTimeInitializer extends
 		AbstractAnnotationConfigDispatcherServletInitializer {
 
 	static {
-        System.out.println("***** QuizTimeInitializer Loaded *****");
+        System.out.println("***** Checking QuizTimeInitializer Loaded *****");
     }
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
